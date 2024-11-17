@@ -1,7 +1,8 @@
 # Concepts-2Dos
 Collection of personal thoughts innovations, todos for private work and time lines
 
--todo 2025 
+-todo 
+=> 2024 / 2025 /
 
 -assembly & processors / compression algorithims & processor production 
     
