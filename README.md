@@ -4,10 +4,18 @@ Collection of personal thoughts innovations, todos for private work and time lin
 -todo 
 => 2024 / 2025 /
 
--assembly & processors / compression algorithims & processor production 
+- assembly & processors / 
+    compression algorithims & processor production 
     
--networking / security priciples & low level networking 
+- networking / 
+    security priciples & low level networking 
 
--scripting & automation / assembly arcitecure (efficiency optimization)
+- scripting & automation / 
+    assembly arcitecure (efficiency optimization)
 
--standalone exe process / high to low level conversion & back (if possible) *reverse engineering, decompiling
+- standalone exe process / 
+    high to low level conversion & back (if possible) *reverse engineering, decompiling
+
+- *././
+    Data Science/ 
+        Process Optimization /
