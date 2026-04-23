@@ -1,32 +1,54 @@
 => assembly / processor 
+- begin review of web assembly
 - have grasped the concept of basic assembly arcitecture, 
   basic understanding of hex values and the involved 
   processes to populate and sustain computer operation
 
+- technology is out reach for consumer creation of 
+  microchip manufacturing; however with engineering
+  proficency a entry level processor etching machine
+  is plausible via EE - laser optics
 - have reviewed the efforts of processor composition
   fundamentals of mapping and creating processors 
   circuit boards & microchips
 
 => networking fluency 
+- Intermediate networking understanding;
+  progressing to web assembly and homelab 
+  server project
 - have gained a general understanding of higher
   level principles and configurations to instantiate  
   a viable network
 
+- Earned Cyber security certification, review 
+  cloud security (isc2)
 - have looked at general privitization of networking
   priciples that might help safe guard digital   
   assets to a greater degree. 
 
 =>scripting / automation
+- Grasped intra-system configuration mapping.
+  Gaining understanding of implementing 
+  "my" processes. through masking and 
+  creation of system / ([z\shell])bash scripts
 - have a general concept of the fundamentals of 
   automation and scripting. zsh, bash, shell
   python, etc. 
 
-- see assembly / processor 
+- see assembly / processor - (web assembly is most accessible) 
 
 =>standalone exe process
+- simple concept configure as appropirate 
+  system asset with adequate privelleges
 - compiliation of a program to machine code
   for extensibility purposes. click to run
   mapping out most potential vulnerabilities.
+
+- less fuzzy on high level to low level 
+  translation. converts through process of 
+  registration. steps to achieve functioning 
+  system asset (as opposed) unlike human 
+  readable 'prototype - abstraction' file
 
 - still fuzzy on the process of high level 
   language to machine code process.
